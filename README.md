@@ -1,4 +1,4 @@
-3 This Project has been hosted on Netlify
+# This Project has been hosted on Netlify
 ## https://react-budget-calculator-ayushavi1.netlify.app
 
 # Getting Started with Create React App
